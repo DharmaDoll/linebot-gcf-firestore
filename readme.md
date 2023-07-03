@@ -1,6 +1,6 @@
 # Overview
 
-![overview](img\Linebot-GCF-Firestore.svg)
+![overview](img/Linebot-GCF-Firestore.svg)
 
 # environment 
 <details><summary>(If you clone, you don't need to do anything but install poetry.)</summary><div>
