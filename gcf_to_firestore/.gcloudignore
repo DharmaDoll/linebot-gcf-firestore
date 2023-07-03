@@ -1,0 +1,7 @@
+*md
+*.sh
+Pipfile
+pyproject.toml
+poetry.lock
+/test
+/__pycache__
